@@ -1,10 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-<channel>
-<title>Your RSS Feed</title>
-<link>https://yourwebsite.com</link>
-<description>This is an RSS feed generated from Google Sheets</description>
-<item>
+<?xml version="1.0"?>
+<Products>
+  <Product>
 <id>package_374</id>
 <title>Egadi Islands - Sicily Short Swims</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-egadi-islands-sicily-short-swims</link>
@@ -12,8 +8,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13709/Sicily_2023_-_Edmondo_6_-_Copy.jpeg?v=1</image_link>
 <price>1680</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+  <Product>
 <id>package_153</id>
 <title>Palawan Paradise - Philippines</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-palawan-paradise-philippines</link>
@@ -21,8 +17,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/15748/Palawan_2024_-_Thomas_Oliver_441.jpg?v=1</image_link>
 <price>2869</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+  <Product>
 <id>package_64</id>
 <title>Nevis to St Kitts Cross Channel Swim</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-nevis-to-st-kitts-cross-channel-swim</link>
@@ -30,8 +26,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13240/St_Kitts_Cross_Channel_2023_15.jpg?v=1</image_link>
 <price>1241</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_83</id>
 <title>The Maldives</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-the-maldives</link>
@@ -39,8 +35,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/16270/Carpe_Vita_and_Dhoni_Aerial_port.jpg?v=1</image_link>
 <price>2820</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_55</id>
 <title>Oman Fjords</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-oman-fjords</link>
@@ -48,8 +44,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/11860/Oman_Fjords_16.jpg?v=1</image_link>
 <price>1590</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_368</id>
 <title>Patmos - Greece</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-patmos-greece</link>
@@ -57,8 +53,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/15799/Patmos_Island_-_Greece_3.jpg?v=1</image_link>
 <price>2080</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_3</id>
 <title>Baja Peninsula - Mexico</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-baja-peninsula-mexico</link>
@@ -66,8 +62,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/16306/Baja_landscape.jpg?v=1</image_link>
 <price>1945</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_27</id>
 <title>Lakes and Tarns - Lake District</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-lakes-and-tarns-lake-district</link>
@@ -75,8 +71,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/9365/DSC02434.jpg?v=1</image_link>
 <price>780</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_195</id>
 <title>St Vincent and the Grenadines</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-st-vincent-and-the-grenadines</link>
@@ -84,8 +80,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/16389/St_Vincent_2025_-_Ash_7.jpg?v=1</image_link>
 <price>1988</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_175</id>
 <title>Marathon Swim Camp - Croatia</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-marathon-swim-camp-croatia</link>
@@ -93,8 +89,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13966/G0576179.jpg?v=1</image_link>
 <price>1250</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_342</id>
 <title>Elaphiti Islands - Croatia</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-elaphiti-islands-croatia</link>
@@ -102,8 +98,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/15245/Elaphiti_Islands_2024_-_Nat___Jess_4.jpg?v=1</image_link>
 <price>1250</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_125</id>
 <title>Red Sea Liveaboard - Egypt</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-red-sea-liveaboard-egypt</link>
@@ -111,8 +107,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13182/Lauren_Thomas_-_Egypt_2023_13.jpeg?v=1</image_link>
 <price>1440</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_21</id>
 <title>Greek Sporades</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-greek-sporades</link>
@@ -120,8 +116,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/16286/Kokkinokastro_on_Alonnisos_island.jpg?v=1</image_link>
 <price>1170</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_127</id>
 <title>Komodo National Park - Indonesia</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-komodo-national-park-indonesia</link>
@@ -129,8 +125,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/11711/Komodo_liveaboard.jpg?v=1</image_link>
 <price>2994</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_365</id>
 <title>Costa Rica Escape</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-costa-rica-escape</link>
@@ -138,8 +134,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/16373/Costa_Rica_2025_-_Reggie_Photos_3.jpg?v=1</image_link>
 <price>1229</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_345</id>
 <title>Ionian Liveaboard - Greece</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-ionian-liveaboard-greece</link>
@@ -147,8 +143,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/16062/Ionian_Liveaboard_2024_26.jpg?v=1</image_link>
 <price>1785</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_170</id>
 <title>Crete Discovery Short Swims</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-crete-discovery-short-swims</link>
@@ -156,8 +152,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/5786/Crete_Discovery.jpeg?v=1</image_link>
 <price>1050</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_123</id>
 <title>St Kitts and Nevis</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-st-kitts-nevis</link>
@@ -165,8 +161,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13508/Saint_Kitts.jpg?v=1</image_link>
 <price>1454</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_371</id>
 <title>Dubrovnik - Croatia</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-dubrovnik-croatia</link>
@@ -174,8 +170,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/15914/Dubrovnik_-_Croatia_5.jpg?v=1</image_link>
 <price>1830</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_364</id>
 <title>YogaSwim Costa Rica</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-yogaswim-costa-rica</link>
@@ -183,8 +179,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/16369/Costa_Rica_2025_-_Reggie_Photos_4.jpg?v=1</image_link>
 <price>1980</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_149</id>
 <title>YogaSwim Crete</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-yogaswim-crete</link>
@@ -192,8 +188,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/14123/YS_-_Crete_1_1.jpg?v=1</image_link>
 <price>1730</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_366</id>
 <title>Cozumel Escape</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-cozumel-escape</link>
@@ -201,8 +197,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/15468/Cozumel_Island_Mexico_2.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_129</id>
 <title>Emerald Coast Long Swims - Sardinia</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-emerald-coast-long-swims-sardinia</link>
@@ -210,8 +206,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13695/Emerald_Coast.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_60</id>
 <title>Milos Explorer</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-milos-explorer</link>
@@ -219,8 +215,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/8968/Milos_-_May.jpg?v=1</image_link>
 <price>1450</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_367</id>
 <title>Bahamas</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-bahamas</link>
@@ -228,8 +224,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/16308/42b87e24b53a4d2fa571a03242ac6c961e6e0bd4_uploads_2Funprocessed_2F1729644583716-t6464sg16bo-c32c9f4251ef09c7b70ca9254066ea9f_2FThe_Bahamas_-_2024_3_large.jpg?v=1</image_link>
 <price>2498</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_61</id>
 <title>Tremiti Islands - Italy</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-tremiti-islands-italy</link>
@@ -237,8 +233,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/4471/SwimTrek-Tremiti-Islands-007-600x600.jpg?v=1</image_link>
 <price>1320</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_152</id>
 <title>Belize Barrier Reef</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-belize-barrier-reef</link>
@@ -246,8 +242,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13498/Belize.jpg?v=1</image_link>
 <price>4790</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_159</id>
 <title>Hellespont Week Tour</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-hellespont-week-tour</link>
@@ -255,8 +251,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/12441/Hellespont_2023_31.jpg?v=1</image_link>
 <price>2290</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_351</id>
 <title>Montenegro Coast</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-montenegro-coast</link>
@@ -264,8 +260,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/15214/Church_of_Sveta_Nedelja.jpg?v=1</image_link>
 <price>1490</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_246</id>
 <title>Bozburun - Turkey</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-bozburun-turkey</link>
@@ -273,8 +269,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/14295/Bozburun_2024_Thomas_Oliver_463.jpg?v=1</image_link>
 <price>1080</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_19</id>
 <title>Greek Cyclades</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-greek-cyclades</link>
@@ -282,8 +278,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13190/Thomas_Oliver_-_2023_53.jpg?v=1</image_link>
 <price>1150</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_343</id>
 <title>Bozburun Short Swims - Turkey</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-bozburun-short-swims-turkey</link>
@@ -291,8 +287,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/14316/Bozburun_2024_Thomas_Oliver_66.jpg?v=1</image_link>
 <price>1030</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_75</id>
 <title>Crete Discovery</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-crete-discovery</link>
@@ -300,8 +296,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/3476/20180804crete6593.jpg?v=1</image_link>
 <price>1540</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_50</id>
 <title>Lycian Way - Turkey</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-lycian-way-turkey</link>
@@ -309,8 +305,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13610/Jamie_-_2023_4.jpg?v=1</image_link>
 <price>1180</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_131</id>
 <title>Isle of Skye and the Small Isles - Scotland</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-isle-of-skye-and-the-small-isles-scotland</link>
@@ -318,8 +314,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/11897/Isle_of_Skye_4.jpg?v=1</image_link>
 <price>1980</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_17</id>
 <title>Malta Escape</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-malta-escape</link>
@@ -327,8 +323,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/16096/Malta_2024_-_Emilia_13.jpg?v=1</image_link>
 <price>980</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_154</id>
 <title>Raja Ampat - Indonesia</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-raja-ampat-indonesia</link>
@@ -336,8 +332,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/9703/01B-ONDINA.jpg?v=1</image_link>
 <price>3175</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_52</id>
 <title>Western Lakes</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-western-lakes</link>
@@ -345,8 +341,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/9141/e9c259c6-8dfa-4eed-887b-2201acc5eb7a.JPG?v=1</image_link>
 <price>820</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_13</id>
 <title>Dalmatian Coast - Croatia</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-dalmatian-coast-croatia</link>
@@ -354,8 +350,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/16362/Dalmatian_Coast_24_-_Ant__Eabha_2.jpeg?v=1</image_link>
 <price>1410</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_71</id>
 <title>Kornati Islands - Croatia</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-kornati-islands-croatia</link>
@@ -363,8 +359,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/15414/Kornati_-_Thomas_Oliver_screenshot_1.png?v=1</image_link>
 <price>1110</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_24</id>
 <title>Introduction to Open Water - Mallorca</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-introduction-to-open-water-mallorca</link>
@@ -372,8 +368,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/14500/Mallorca_-_general_1.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_37</id>
 <title>Open Water Development - Mallorca</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-open-water-development-mallorca</link>
@@ -381,8 +377,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/14504/Mallorca_Coaching.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_332</id>
 <title>Greek Sporades Short Swims</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-greek-sporades-short-swims</link>
@@ -390,8 +386,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/16296/Alonissos_island_-_fishing_village_of_Votsi._Greek_Sporades.jpg?v=1</image_link>
 <price>1210</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_140</id>
 <title>Milos Explorer - Long Swims</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-milos-explorer-long-swims</link>
@@ -399,8 +395,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13786/Andrew_Ragless_-_Moment_Of_The_Year_3.jpeg?v=1</image_link>
 <price>1840</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_79</id>
 <title>Ionian Explorer - Greece</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-ionian-explorer-greece</link>
@@ -408,8 +404,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13750/Ionian_Explorer_2024_2.jpg?v=1</image_link>
 <price>1540</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_256</id>
 <title>YogaSwim Lake District</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-yogaswim-lake-district</link>
@@ -417,8 +413,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/12271/Lake_District_-_guides_Telle__Trina_7.jpeg?v=1</image_link>
 <price>800</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_346</id>
 <title>Sea of Cortez - Mexico</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-sea-of-cortez-mexico</link>
@@ -426,8 +422,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13357/Sea_Of_Cortez_4.jpg?v=1</image_link>
 <price>1725</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_344</id>
 <title>Ithaca Odyssey - Greece</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-ithaca-odyssey-greece</link>
@@ -435,8 +431,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/14195/Ithaca_island_Afales_beach.jpg?v=1</image_link>
 <price>1280</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_336</id>
 <title>Lycian Way Long Swims - Turkey</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-lycian-way-long-swims-turkey</link>
@@ -444,8 +440,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13226/Paul_Fallows_2023_1.jpg?v=1</image_link>
 <price>1520</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_156</id>
 <title>Big Island Hawaii</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-big-island-hawaii</link>
@@ -453,8 +449,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/10232/Hawaii_3.png?v=1</image_link>
 <price>3167</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_85</id>
 <title>Galapagos Islands</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-galapagos-islands</link>
@@ -462,8 +458,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13422/Galapagos.jpg?v=1</image_link>
 <price>5364</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_126</id>
 <title>Greek Cyclades Short Swims</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-greek-cyclades-short-swims</link>
@@ -471,8 +467,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13170/Thomas_Oliver_-_2023_41.jpg?v=1</image_link>
 <price>1500</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_157</id>
 <title>Channel and Long Distance Training - Croatia</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-channel-and-long-distance-training-croatia</link>
@@ -480,8 +476,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13974/Dalmatian_Coast_-_Drones_6.jpg?v=1</image_link>
 <price>1340</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_361</id>
 <title>Puerto de Mogan Short Swims - Gran Canaria</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-puerto-de-mogan-short-swims-gran-canaria-7384b8a5-b051-4d76-862b-a2793b3dfec8</link>
@@ -489,8 +485,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/14537/Gran_Canaria_2.jpg?v=1</image_link>
 <price>1180</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_137</id>
 <title>Lan Ha Bay - Vietnam</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-lan-ha-bay-vietnam</link>
@@ -498,8 +494,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/16086/Vietnam_2024_-_Tung_1.jpg?v=1</image_link>
 <price>1418</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_32</id>
 <title>Montenegro Fjords</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-montenegro-fjords</link>
@@ -507,8 +503,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13620/Montenegro_2023_-_Rosie_31.jpg?v=1</image_link>
 <price>1520</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_333</id>
 <title>Kornati Islands Short Swims - Croatia</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-kornati-islands-short-swims-croatia</link>
@@ -516,8 +512,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/15400/Kornati_Islands_2024_-_Thomas_Oliver_4.jpeg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_359</id>
 <title>Puerto de Mogan - Gran Canaria</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-puerto-de-mogan-gran-canaria</link>
@@ -525,8 +521,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/14527/Gran_Canaria_1.jpg?v=1</image_link>
 <price>1080</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_128</id>
 <title>Montenegro Fjords - Long Swims</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-montenegro-fjords-long-swims</link>
@@ -534,8 +530,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/16354/Montenegro_Fjords_2024_1.jpg?v=1</image_link>
 <price>1750</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_331</id>
 <title>Milos Explorer with Teens</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-milos-explorer-with-teens</link>
@@ -543,8 +539,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/12347/Milos_2023_-_With_Teens_1.jpeg?v=1</image_link>
 <price>1750</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_70</id>
 <title>Dalmatian Coast Short Swims - Croatia</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-dalmatian-coast-short-swims-croatia</link>
@@ -552,8 +548,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13780/Dalmatian_Coast__Milos_-_Nicole_Harmar_19.jpg?v=1</image_link>
 <price>1280</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_42</id>
 <title>Aeolian Islands Sicily</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-aeolian-islands-sicily</link>
@@ -561,8 +557,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13640/Sicily_2023_-_Edmondo_1.jpeg?v=1</image_link>
 <price>1330</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_297</id>
 <title>Malta Escape - Short Swims</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-malta-escape-short-swims</link>
@@ -570,8 +566,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13984/Malta_-_Ben_2_16.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_350</id>
 <title>Galapagos Explorer</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-galapagos-explorer</link>
@@ -579,8 +575,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/14150/Yacht_Anahi_15.jpg?v=1</image_link>
 <price>12200</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_232</id>
 <title>Crete Discovery with Teens</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-crete-discovery-with-teens</link>
@@ -588,8 +584,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/6166/20180804crete2603.jpg?v=1</image_link>
 <price>1550</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_357</id>
 <title>Egadi Islands - Sicily</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-egadi-islands-sicily</link>
@@ -597,8 +593,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/15023/People_bathing_at_Cala_del_Bue_Marino.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_26</id>
 <title>Lake Bled and the Slovenian Alps</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-lake-bled-and-the-slovenian-alps</link>
@@ -606,8 +602,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/12289/Slovenia_2023_-_Thomas_Oliver_4.jpg?v=1</image_link>
 <price>950</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_5</id>
 <title>Bosphorus Cross-Continental Swim</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-bosphorus-cross-continental-swim</link>
@@ -615,8 +611,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/3260/swimtrek_swimming_holidays_turkey_bosphorus_swim_city_shot.jpg?v=1</image_link>
 <price>1880</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_139</id>
 <title>Latitude Festival</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-latitude-festival</link>
@@ -624,8 +620,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/11003/Latitude_11.jpg?v=1</image_link>
 <price>25</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_167</id>
 <title>Yasawa Islands - Fiji</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-yasawa-islands-fiji</link>
@@ -633,8 +629,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/16028/Fiji_2024_-_Nikki_55.jpg?v=1</image_link>
 <price>2605</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_360</id>
 <title>Introduction to Open Water - Cyprus</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-introduction-to-open-water-cyprus</link>
@@ -642,8 +638,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/14269/Aerial_view_of_Coral_Bay.jpg?v=1</image_link>
 <price>1330</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_335</id>
 <title>Aeolian Islands Sicily - Short Swims</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-aeolian-islands-sicily-short-swims</link>
@@ -651,8 +647,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13709/Sicily_2023_-_Edmondo_6_-_Copy.jpeg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_348</id>
 <title>YogaSwim Montenegro</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-yogaswim-montenegro</link>
@@ -660,8 +656,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/16076/YogaSwim_Montenegro_-_2024_1.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_347</id>
 <title>Elaphiti Islands Short Swims - Croatia</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-elaphiti-islands-short-swims-croatia</link>
@@ -669,8 +665,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/15231/Elaphiti_Islands_2024_-_Nat___Jess_6.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_349</id>
 <title>Sea of Cortez Short Swims - Mexico</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-sea-of-cortez-short-swims-mexico</link>
@@ -678,8 +674,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13380/Sea_Of_Cortez_-_Short_Swims_1.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_84</id>
 <title>Inner Hebrides - Scotland</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-inner-hebrides-scotland</link>
@@ -687,8 +683,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13093/Inner_Hebrides_15.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_189</id>
 <title>YogaSwim Bali</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-yogaswim-bali</link>
@@ -696,8 +692,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/14089/276132422_1657337211269917_8546476392334357243_n.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_334</id>
 <title>Shipwreck Coast - Bali</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-shipwreck-coast-bali</link>
@@ -705,8 +701,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/14054/Bali_-_General_6.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_141</id>
 <title>Milos Explorer - Short Swims</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-milos-explorer-short-swims</link>
@@ -714,8 +710,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13214/Dalmatian_Coast__Milos_-_Nicole_Harmar_7.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_130</id>
 <title>Dalmatian Coast Long Swims - Croatia</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-dalmatian-coast-long-swims-croatia</link>
@@ -723,8 +719,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13144/bfda26d21714297ee676875988fcad1770dcd816_uploads_2Funprocessed_2F1688277753453-c4ueikfnbrs-f846a3da21702541d9df2d3878423192_2FG0022223_large.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_40</id>
 <title>Emerald Coast - Sardinia</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-emerald-coast-sardinia</link>
@@ -732,8 +728,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/16364/Emerald_Coast_4.jpg?v=1</image_link>
 <price>1500</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_73</id>
 <title>Outer Hebrides - Scotland</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-outer-hebrides-scotland</link>
@@ -741,8 +737,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/12363/Nick_Lansberry_-_Outer_Hebrides_2023_45.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_231</id>
 <title>Lycian Way With Teens - Turkey</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-lycian-way-with-teens-turkey</link>
@@ -750,8 +746,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/9981/DJI_0006.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_183</id>
 <title>Montenegro Fjords - Short Swims</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-montenegro-fjords-short-swims</link>
@@ -759,8 +755,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13669/Montenegro_2023_-_Rosie_34.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_354</id>
 <title>Gozo to Malta Cross Channel Swim</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-gozo-to-malta-cross-channel-swim</link>
@@ -768,8 +764,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/14515/gozo_400x300.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_253</id>
 <title>Canadian Wilderness</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-canadian-wilderness</link>
@@ -777,8 +773,8 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13438/iStock-1371321734.jpg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-<item>
+</Product>
+<Product>
 <id>package_374</id>
 <title>Egadi Islands - Sicily Short Swims</title>
 <link>https://www.swimtrek.com/packages/swimming-holiday-egadi-islands-sicily-short-swims</link>
@@ -786,6 +782,5 @@
 <image_link>https://d6bycdqursbhf.cloudfront.net/uploads/image_asset/file/13709/Sicily_2023_-_Edmondo_6_-_Copy.jpeg?v=1</image_link>
 <price>0</price>
 <pubDate>Invalid Date</pubDate>
-</item>
-</channel>
-</rss>
+</Product>
+<Products>
