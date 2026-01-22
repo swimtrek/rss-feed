@@ -1,1 +1,11 @@
-<Products/>
+<Products>
+  <Product>
+    <id>3</id>
+    <title>4</title>
+    <link>4</link>
+    <description>9</description>
+    <image_link>5</image_link>
+    <price>3</price>
+    <inventory_quantity>6</inventory_quantity>
+  </Product>
+</Products>
